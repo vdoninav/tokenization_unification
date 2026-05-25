@@ -1,0 +1,7 @@
+| tokenizer | U_equal | U_accuracy | U_deployment |
+| --- | --- | --- | --- |
+| patch | 0.426 | 0.757 | 0.313 |
+| variate | 0.269 | 0.636 | 0.206 |
+| point | 0.158 | 0.618 | 0.051 |
+| discrete_scalar | -0.037 | 0.425 | -0.253 |
+| discrete_bpe | -0.162 | -0.065 | -0.377 |

@@ -1,0 +1,7 @@
+dataset,C,horizon,empirical_winner
+ETTh1,7,96,patch
+ETTh1,7,336,patch
+Electricity,321,96,patch
+Electricity,321,336,patch
+Weather,21,96,patch
+Weather,21,336,point
