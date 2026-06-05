@@ -1,0 +1,24 @@
+{
+  "best_epoch": 18,
+  "config_hash": "da36fe21e5552a0b09a7dad366ebce0ae9bc972d4124d56c2d6864a9525b760d",
+  "dataset": "Weather",
+  "epochs_trained": 28,
+  "git_sha": "0137948b17557bd00e67bedf29e5e0922d3d1d5a",
+  "horizon": 336,
+  "inference_ms_per_batch": 147.1173984633424,
+  "lookback": 336,
+  "param_count": {
+    "backbone": 921984,
+    "head": 0,
+    "tokenizer": 1052672
+  },
+  "peak_vram_mb": 27846,
+  "seed": 2021,
+  "test_mae": 0.34440834895171935,
+  "test_rmse": 0.5474746127732257,
+  "tokenizer": "discrete_scalar",
+  "tokens_per_input": 336,
+  "train_time_sec": 4649.910552802001,
+  "val_mae": 0.48205197136786077,
+  "val_rmse": 0.8276609445600224
+}

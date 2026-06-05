@@ -1,0 +1,24 @@
+{
+  "best_epoch": 46,
+  "config_hash": "e9080b684d47d90cbda35e7fbf10790f2c2ca15bb28a7f7269910469f5bad4aa",
+  "dataset": "Electricity",
+  "epochs_trained": 56,
+  "git_sha": "56fd01e5adfcaa7bb4601d50141a970e5f81784b",
+  "horizon": 336,
+  "inference_ms_per_batch": 65.97489271834175,
+  "lookback": 336,
+  "param_count": {
+    "backbone": 921984,
+    "head": 0,
+    "tokenizer": 385
+  },
+  "peak_vram_mb": 26661,
+  "seed": 2023,
+  "test_mae": 0.2850889708384186,
+  "test_rmse": 0.44082208833975367,
+  "tokenizer": "point",
+  "tokens_per_input": 336,
+  "train_time_sec": 39945.68507287899,
+  "val_mae": 0.25525240432607393,
+  "val_rmse": 0.40635534538270696
+}

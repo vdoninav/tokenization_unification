@@ -1,0 +1,24 @@
+{
+  "best_epoch": 15,
+  "config_hash": "485675b0d038f562a9dc16b9cbaad459ecc718d4db2b75b3cc2144725cf863d7",
+  "dataset": "ETTh1",
+  "epochs_trained": 25,
+  "git_sha": "d6ba22c174f0a255758657944cb762c8fb13f39c",
+  "horizon": 96,
+  "inference_ms_per_batch": 1.6638511819606223,
+  "lookback": 336,
+  "param_count": {
+    "backbone": 921984,
+    "head": 0,
+    "tokenizer": 176864
+  },
+  "peak_vram_mb": 5085,
+  "seed": 2021,
+  "test_mae": 0.4450101784745822,
+  "test_rmse": 0.6463790012170304,
+  "tokenizer": "variate",
+  "tokens_per_input": 7,
+  "train_time_sec": 11.135479183001735,
+  "val_mae": 0.5948970674989447,
+  "val_rmse": 0.8576349533478915
+}
